@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Apoio à Fabricação e ao Controle de Estoque
 
 Protótipo desenvolvido para uma montadora fictícia que integra **JavaScript (Node.js)** e **Prolog (SWI-Prolog)** com o objetivo de verificar a disponibilidade de materiais em estoque com base em pedidos de fabricação.
@@ -89,3 +90,6 @@ node app.js avião 2
 
 - [Documentação Oficial do Node.js - child_process](https://nodejs.org/api/child_process.html)
 - [Documentação Oficial do SWI-Prolog](https://www.swi-prolog.org/Documentation.html)
+=======
+# montadora
+>>>>>>> 6b8891d60e35b48e6013fde79cc6d38938ab0f57
