@@ -93,4 +93,4 @@ node app.js avião 2
 ## Referências
 
 - [Documentação Oficial do Node.js - child_process](https://nodejs.org/api/child_process.html)
-- # [Documentação Oficial do SWI-Prolog](https://www.swi-prolog.org/Documentation.html)
+- [Documentação Oficial do SWI-Prolog](https://www.swi-prolog.org/Documentation.html)
